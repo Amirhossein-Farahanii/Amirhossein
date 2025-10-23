@@ -37,7 +37,7 @@ Beyond coding, I trade financial markets professionally and bring the same minds
 ---
 
 <p align="center">
-  <a href="https://github.com/Amirhossein-Farahani"><img src="https://img.shields.io/badge/GitHub-Amirhossein-black?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Amirhossein-Farahanii"><img src="https://img.shields.io/badge/GitHub-Amirhossein-black?style=for-the-badge&logo=github"></a>
   <a href="mailto:amirhosseinfarahani235@gmail.com"><img src="https://img.shields.io/badge/Email-amirhosseinfarahani235@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 </p>
 
